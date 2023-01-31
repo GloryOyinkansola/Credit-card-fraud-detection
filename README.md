@@ -1,1 +1,2 @@
 # Credit-card-fraud-detection
+The dataset used for this project was obtained from Kaggle and contained transactions made by European credit card holders in September 2013. The dataset was highly imalanced as incidence of fraud accounts for only 0.172% of the entire dataset. The problem was addressed using both random undersampling and oversampling. Four classifiers were tested, and logistic regression performed best on the oversampled dataset and would be the best model for detecting fraud

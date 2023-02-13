@@ -3,7 +3,7 @@
 
 The dataset was gotten from kaggle and it contains transactions made in September 2013 by European cardholders.
 
-The dataset was highly unbalanced, the positive class (frauds) account for only 0.172% of all transaction. This problem was solved (balanced) using Random undersampling and oversampling approach.
+The dataset was highly imbalanced, the positive class (frauds) account for only 0.172% of all transaction. This problem was solved (balanced) using Random undersampling and oversampling approach.
 
 Due to confidentiality issues, the original features were not provided, but were scaled using PCA transformation.
 
